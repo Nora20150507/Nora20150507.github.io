@@ -11,6 +11,7 @@ body {
     font-family: YuGothic;
     background-color: #0BE;
     font-size: 14px;
+    display: none;
 }
 
 nav ul li {
